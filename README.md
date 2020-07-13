@@ -1,3 +1,4 @@
 # My homepage
-
-- [ ] todo
+- [ ] about me
+- [ ] portfolio / side projects
+- [ ] CV
